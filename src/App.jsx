@@ -3,7 +3,7 @@
 // import viteLogo from '/vite.svg'
 import './css/App.css';
 import Favourites from './pages/favourites.jsx';
-import Home from './pages/home.jsx';
+import Home from './pages/Home.jsx';
 import {Routes,Route} from "react-router-dom";
 import NavBar from './components/navBar.jsx';
 import { MovieProvider } from './contexts/MovieContexts.jsx'; 
